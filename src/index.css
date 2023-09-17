@@ -1,0 +1,47 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.light {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 10px;
+}
+
+.traffic-light1 {
+  width: 70px;
+  padding: 5px;
+  margin: 50px;
+  background-color: #888;
+  border: dashed 1px #666;
+  display: inline-block;
+}
+.traffic-light2 {
+  width: 70px;
+  padding: 5px;
+  margin: 50px;
+  background-color: #888;
+  border: dashed 1px #666;
+  display: inline-block;
+  float: left;
+}
+.traffic-light3 {
+  width: 70px;
+  padding: 5px;
+  margin: 50px;
+  background-color: #888;
+  border: dashed 1px #666;
+  display: inline-block;
+  float: right;
+}
+.traffic-light4 {
+  width: 70px;
+  padding: 5px;
+  margin: 250px;
+  background-color: #888;
+  border: dashed 1px #666;
+  display: inline-block;
+}
+
